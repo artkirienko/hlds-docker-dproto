@@ -1,0 +1,39 @@
+// Server Lists
+//
+
+Auth
+{
+	207.173.177.10:7002
+//	half-life.east.won.net:7002
+//	half-life.west.won.net:7002
+//	half-life.central.won.net:7002
+}
+
+Master
+{
+	207.173.177.10:27010 // steam official
+	188.40.40.201:27010
+	46.165.194.16:27010
+	46.4.71.67:27010
+	46.165.194.14:27010
+	194.87.101.97:27010
+	ms.gs4u.net:27010
+	85.204.49.230:27010 // not
+	ms.qck.ro:27010 // not
+	88.198.47.43:27010 // not
+	138.201.120.30:27010 // not
+	ms.tsarvar.com:27010 // not
+	ms.tsar.im:27010 // not
+	zvdk.nl:27010 // not
+	hl1master.steampowered.com:27010 // not
+//	half-life.east.won.net:27010
+//	half-life.west.won.net:27010
+//	half-life.central.won.net:27010
+}
+
+Secure
+{
+	half-life.speakeasy-nyc.hlauth.net:27012
+	half-life.speakeasy-sea.hlauth.net:27012
+	half-life.speakeasy-chi.hlauth.net:27012
+}

@@ -1,0 +1,13 @@
+crossfire.bsp
+bounce.bsp
+crossfire.bsp
+datacore.bsp
+frenzy.bsp
+gasworks.bsp
+lambda_bunker.bsp
+rapidcore.bsp
+snark_pit.bsp
+stalkyard.bsp
+subtransit.bsp
+undertow.bsp
+boot_camp.bsp

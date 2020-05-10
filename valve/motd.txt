@@ -1,0 +1,12 @@
+Welcome to HLDS Docker dproto(47/48)
+
+
+This server uses Docker.
+For more information visit
+https://github.com/artkirienko/hlds-docker-dproto
+
+
+
+
+Love old-school gaming and Half-Life?
+Join us on Discord: https://discord.com/invite/halflife
