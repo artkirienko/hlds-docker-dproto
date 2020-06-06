@@ -57,19 +57,18 @@ docker run -it --rm -d --name hlds -p27015:27015 -p27015:27015/udp artkirienko/h
 
 ## Default mapcycle
 
-* crossfire.bsp
-* bounce.bsp
-* crossfire.bsp
-* datacore.bsp
-* frenzy.bsp
-* gasworks.bsp
-* lambda_bunker.bsp
-* rapidcore.bsp
-* snark_pit.bsp
-* stalkyard.bsp
-* subtransit.bsp
-* undertow.bsp
-* boot_camp.bsp
+* crossfire
+* bounce
+* datacore
+* frenzy
+* gasworks
+* lambda_bunker
+* rapidcore
+* snark_pit
+* stalkyard
+* subtransit
+* undertow
+* boot_camp
 
 ## Advanced
 
