@@ -78,6 +78,10 @@ COPY lib/dproto/dproto.cfg /opt/steam/hlds/valve/dproto.cfg
 RUN echo 'linux addons/dproto/dproto_i386.so' >> /opt/steam/hlds/valve/addons/metamod/plugins.ini
 COPY lib/dproto/amxx/* /opt/steam/hlds/valve/addons/amxmodx/scripting/
 
+# Install bind_key
+COPY lib/bind_key/amxx/bind_key.amxx /opt/steam/hlds/valve/addons/amxmodx/plugins/bind_key.amxx
+RUN echo 'bind_key.amxx            ; binds keys for voting' >> /opt/steam/hlds/valve/addons/amxmodx/configs/plugins.ini
+
 # Install jk_botti
 RUN curl -sqL "$jk_botti_url" | tar -C /opt/steam/hlds/valve/ -xJ \
     && echo 'linux addons/jk_botti/dlls/jk_botti_mm_i386.so' >> /opt/steam/hlds/valve/addons/metamod/plugins.ini
